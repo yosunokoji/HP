@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>高田保馬 - 近代日本の社会学者・経済学者</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            color: #333;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: red;
+            text-align: center;
+        }
+        h2 {
+            color: darkblue;
+            border-bottom: 2px solid darkblue;
+            padding-bottom: 5px;
+        }
+        p {
+            color: darkgreen;
+            font-size: 16px;
+        }
+        ul {
+            background-color: #ffffcc;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        li {
+            color: #555;
+        }
+        a {
+            color: darkred;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>高田保馬</h1>
+
+    <p>
+        <strong style="color: purple;">高田保馬（たかだ やすま、1883年10月2日 - 1972年7月16日）</strong>は、日本の社会学者、経済学者。
+        日本の社会学、経済学の草分けの一人。
+        同志社大学、九州大学、京都大学で教鞭を執り、多くの学者を育てた。
+    </p>
+
+    <h2>経歴</h2>
+    <ul>
+        <li><span style="color: darkred;">1971年：</span>長崎県生まれ</li>
+        <li><span style="color: darkred;">1907年：</span>東京帝国大学文科大学社会学科卒業</li>
+        <li><span style="color: darkred;">1919年：</span>九州帝国大学法文学部教授</li>
+        <li><span style="color: darkred;">1929年：</span>京都帝国大学文学部教授</li>
+        <li><span style="color: darkred;">1946年：</span>日本社会学会会長</li>
+    </ul>
+
+    <h2>趣味</h2>
+    <ul>
+        <li style="color: darkorange;">読書</li>
+        <li style="color: darkorange;">『社会学概論』</li>
+        <li style="color: darkorange;">『経済学新講』</li>
+        <li style="color: darkorange;">『人口問題』</li>
+    </ul>
+
+    <h2>業績</h2>
+    <p>
+        <span style="color: navy;">高田保馬は、社会学、経済学、人口学など幅広い分野で研究を行い、
+        近代日本の社会科学の発展に大きく貢献した。
+        特に、社会学においては、社会学の基礎理論の構築や、</span>
+        日本の社会構造の分析などで重要な役割を果たした。
+    </p>
+
+    <h2>関連情報</h2>
+    <ul>
+        <li><a href="http://takadayasuma.jp/">高田保馬顕彰会</a></li>
+    </ul>
+</body>
+</html>
